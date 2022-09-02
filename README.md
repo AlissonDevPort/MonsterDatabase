@@ -1,6 +1,6 @@
 ### Olá! Se lembre de checar a lista de monstros disponivel no header :D
 
-
+### `npm install`
 ### `npm start`
 
 Runs the app in the development mode.\
